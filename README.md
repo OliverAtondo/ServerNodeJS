@@ -28,3 +28,7 @@ Para usar correctamente este server, se debe usar Node. Modifique las líneas de
 En un buscador pones tu IP y listo:
 
 ![App Screenshot](imagen_2022-06-07_211616203.png)
+
+## Instalación
+
+En Arduino también es necesario cambiar la IP a la IP del servidor, así mismo, se debe enlazar a un router con Wi-Fi.
