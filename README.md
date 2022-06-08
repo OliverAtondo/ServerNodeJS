@@ -13,6 +13,7 @@ Corre esto en el CMD.
 ```bash
   ipconfig
 ```
+Y seleccionas la IPv4.
 
 ## Instalación
 
