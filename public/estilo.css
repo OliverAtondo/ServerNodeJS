@@ -1,0 +1,8 @@
+thead th { position: sticky; top: 0; }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}

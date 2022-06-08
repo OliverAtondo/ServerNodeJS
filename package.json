@@ -1,0 +1,39 @@
+{
+  "name": "redes_pagina_con_nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon main.js --exec babel-node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fortunatoramirez/redes_pagina_con_nodejs.git"
+  },
+  "keywords": [
+    "servidor",
+    "http",
+    "nodejs"
+  ],
+  "author": "Fortunato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fortunatoramirez/redes_pagina_con_nodejs/issues"
+  },
+  "homepage": "https://github.com/fortunatoramirez/redes_pagina_con_nodejs#readme",
+  "dependencies": {
+    "document": "^0.4.7",
+    "express": "^4.18.1",
+    "serialport": "^10.4.0",
+    "socket.io": "^1.7.2",
+    "socket.io-client": "^4.5.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.17.10",
+    "@babel/core": "^7.18.0",
+    "@babel/node": "^7.17.10",
+    "@babel/preset-env": "^7.18.0",
+    "nodemon": "^2.0.16",
+    "ws": "^8.6.0"
+  },
+  "description": ""
+}
