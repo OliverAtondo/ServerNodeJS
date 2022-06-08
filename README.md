@@ -29,6 +29,6 @@ En un buscador pones tu IP y listo:
 
 ![App Screenshot](imagen_2022-06-07_211616203.png)
 
-## Instalación
+## Arduino
 
 En Arduino también es necesario cambiar la IP a la IP del servidor, así mismo, se debe enlazar a un router con Wi-Fi.
