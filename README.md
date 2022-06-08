@@ -24,3 +24,5 @@ Para usar correctamente este server, se debe usar Node. Modifique las líneas de
   npm install socket.io@1.7.2
   npm start
 ```
+
+![App Screenshot](imagen_2022-06-07_211616203.png)
